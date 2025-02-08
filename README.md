@@ -1,2 +1,2 @@
 # bookbot
-First boodev project, building a bookbot in python.
+BookBot is my first project!
